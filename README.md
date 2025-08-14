@@ -1,1 +1,2 @@
-# aos-2025
+# roda os scripts sempre com:
+npm run start
